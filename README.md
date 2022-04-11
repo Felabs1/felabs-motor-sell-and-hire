@@ -1,4 +1,4 @@
-# bike-sales-and-hire-system
+# Felabs Motor Sale and hire
 
 
 ![Screenshot from 2022-04-11 18-51-39](https://user-images.githubusercontent.com/92982964/162780745-dd60fa24-1df4-483f-94b8-8779893015c0.png)
